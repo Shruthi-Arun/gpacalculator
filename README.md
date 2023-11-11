@@ -4,7 +4,7 @@
 <p>
 A simple website to convert your Indian CGPA (Cumulative Grade Point Average) to the USA GPA (Grade Point Average) scale. The calculator takes in your CGPA and outputs the equivalent GPA, making it easy for Indian students to understand their academic standing in the USA.
 
-:computer:[GPA CALCULATOR](https://www.example.com)
+:computer:[GPA CALCULATOR](https://shruthi-arun.github.io/gpacalculator/)
 
 
 
